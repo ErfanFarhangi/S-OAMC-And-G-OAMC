@@ -3,4 +3,4 @@
 
 Mobility-aware computation offloading in edge-computing using machine learning
 
-The source codes for six methods, including S-OAMC, OAMC, S-OAMC-WP, G-OAMC, BFD, and IP, are provided in the file "Code.cpp". The codes are all implemented in c++. 
+The source codes for six methods, including S-OAMC, OAMC, S-OAMC-WP, G-OAMC, BFD, and IP, are provided in the file "Codes.cpp". The codes are all implemented in c++. 
