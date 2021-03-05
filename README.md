@@ -11,4 +11,4 @@ We provided 5 different size datasets composed of cloudlets, applications and th
 How to run the code?
 
 
-We used visual studio environment to develop the code. You can downlaod visual stuio from https://visualstudio.microsoft.com/downloads/. To run the code using visual studio, you need to first configure visual studio to use IBM CPLEX Concert. Instructions for configuration are availble at https://www.leandro-coelho.com/how-to-configure-ms-visual-studio-to-use-ibm-cplex-concert/
+We used visual studio environment to develop the code. You can downlaod visual stuio from https://visualstudio.microsoft.com/downloads/. To run the code using visual studio, you need to first configure visual studio to use IBM CPLEX Concert. Instruction for configuration is availble at https://www.leandro-coelho.com/how-to-configure-ms-visual-studio-to-use-ibm-cplex-concert/
